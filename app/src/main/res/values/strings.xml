@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">BC Bank</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to BC Bank</string>
+    <string name="nav_header_subtitle">Your Bank in Canada</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings profile layout -->
+    <string name="prompt_my_name">Name</string>
+    <string name="prompt_my_email">Email</string>
+    <string name="prompt_my_mobile">Phone</string>
+    <!-- Strings related to login -->
+    <string name="prompt_account_number">Account Number</string>
+    <string name="prompt_account_transfer_value">Value</string>
+
+    <string name="prompt_email_one">User</string>
+    <string name="prompt_password_one">Password</string>
+    <string name="action_log_in_short">Log in</string>
+    <string name="title_activity_login">My Account</string>
+    <string name="title_activity_magexercise2">2. Protect API with OAuth</string>
+    <string name="title_activity_magexercise3">3. Protect API with MAG</string>
+    <string name="title_activity_magexercise4">4. MultiFactor Authentication with OTP</string>
+    <string name="title_activity_magexercise5">5. SSO in between apps</string>
+    <string name="title_activity_magexercise6">6. FingerPrint Session lock</string>
+    <string name="title_activity_magexercise7">7. User to User Messaging</string>
+    <string name="title_activity_magexercise8">8. Web QR Code</string>
+    <string name="title_activity_magexercise9">9. Consuming a public API</string>
+    <string name="title_activity_magexercise10">10. GeoFancying</string>
+    <string name="action_log_in">Log in</string>
+    <string name="action_log_out">Log out</string>
+    <string name="action_clean_values">Clean values</string>
+    <string name="display_results">Display your results here</string>
+    <string name="prompt_endpoint">Endpoint</string>
+    <string name="action_call_endpoint">Invoke API</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="show_user_credentials">show user credentials</string>
+    <string name="lock_session">Lock Session</string>
+    <string name="unlock_session">Unlock Session</string>
+
+    <!-- Strings related to MyAccount Activity -->
+    <string name="title_activity_bank">BC Bank</string>
+    <string name="action_my_balance">My Balance</string>
+    <string name="action_my_profile">My Profile</string>
+    <string name="action_transfer_money">Transfer Money</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_call_endpoint_otp">Invoke API with OTP</string>
+    <string name="action_check_current_session">Check current user\'s session</string>
+    <string name="input_message_hint">new message here</string>
+    <string name="input_recipient_hint">PMFKey</string>
+    <string name="send_message">send message</string>
+    <string name="start_listening">start listening</string>
+    <string name="display_messages">Display your messages here</string>
+    <string name="action_call_public_API">Invoke public API</string>
+    <string name="action_call_endpoint_geofancying">invoke geofancing endpoint</string>
+    <string name="sharedUserLabel">sharedID</string>
+    <string name="action_scan_qr">Scan QR</string>
+    <string name="public_endpoint">https://api.ipify.org?format=json</string>
+    <string name="account_name">Workshop 2018 Account</string>
+    <string name="title_activity_branchs">Branchs</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_transfer_money">Transfer</string>
+    <string name="title_activity_profile">My Profile</string>
+
+</resources>

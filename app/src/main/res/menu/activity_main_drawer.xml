@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_menu_send"
+            android:title="My Account" />
+        <item
+            android:id="@+id/nav_balance"
+            android:icon="@drawable/ic_menu_send"
+            android:title="View Account Balance" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_send"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_transfer"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Transfer Money" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_branchs"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Branchs" />
+            <item
+                android:id="@+id/nav_talk"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Talk to Us" />
+        </menu>
+    </item>
+
+</menu>
